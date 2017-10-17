@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs">
+        <item>我的音乐</item>
+        <item>音乐库</item>
+    </string-array>
+    <string-array name="album_lrc_title">
+        <item>专辑</item>
+        <item>歌词</item>
+    </string-array>
+</resources>

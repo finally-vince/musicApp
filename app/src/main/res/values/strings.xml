@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">磨砺音乐</string>
+    <string name="action_settings">设置</string>
+    <string name="music_list">音乐列表</string>
+    <string name="music_play">正在播放</string>
+    <string name="my_music">我的音乐</string>
+    <string name="lately_play">最近播放</string>
+    <string name="download_manager">下载管理</string>
+    <string name="i_like_music">我喜欢的单曲</string>
+    <string name="net_lxb">流行榜</string>
+    <string name="net_gtb">港台榜</string>
+    <string name="net_ndb">内地榜</string>
+    <string name="think_sogou">感谢【搜狗音乐】对音乐库的内容的支持，音乐版权均归搜狗音乐所有。</string>
+    <string name="like_info">点击播放您喜欢的歌曲列表</string>
+    <string name="songName">歌名</string>
+    <string name="singer">歌者</string>
+    <string name="copyright">非磨砺 不能赢\n www.moliying.com</string>
+    <string name="downloading">正在下载歌曲&#8230;</string>
+    <string name="download_success">歌曲下载完成</string>
+    <string name="loading_lrc">--正在加载歌词--</string>
+    <string name="file_name">文件名</string>
+
+
+</resources>
